@@ -1,5 +1,5 @@
 # Trademarkia Clone
-
+Sign off : 7:55pm 30/03/25
 This is a **Next.js** project that replicates the functionality of a trademark search and management platform. The application allows users to search for trademarks, filter results, and view detailed information about trademarks, including their status, registration date, renewal date, and class descriptions.
 This was created by Abhishek Das from VITB (22BCE11236)
 The live link of the website on vercel - "https://22-bce-11236-frontend.vercel.app"
